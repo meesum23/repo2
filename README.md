@@ -1,5 +1,6 @@
 Shopify Ui design 
 UI/UX Design
+![alt text](image.png)
 User Research
 First, we need to find out who our target users are and what they need. This can be done by doing surveys or interviews to gather useful insights about their preferences and pain points.
 
